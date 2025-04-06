@@ -18,22 +18,6 @@ This Python script is a basic tool for identifying potential security vulnerabil
 * `requests` library (for making HTTP requests)
 * `BeautifulSoup4` library (for parsing HTML)
 
-## Installation
-
-1.  Clone the repository:
-
-    ```bash
-    git clone <repository_url>
-    ```
-
-    (Replace `<repository_url>` with the actual URL of your repository.)
-
-2.  Install the required Python libraries:
-
-    ```bash
-    pip install requests beautifulsoup4
-    ```
-
 ## Usage
 
 1.  Run the script:
