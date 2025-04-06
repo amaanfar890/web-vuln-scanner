@@ -47,7 +47,7 @@ This script is intended for educational and ethical testing purposes ONLY.
 
 ## Author
 
-amaanfar890
-https://www.linkedin.com/in/amaan-faroqui-9077171ab/
+Email: faroquiamaan@gmail.com
+Linkedin: https://www.linkedin.com/in/amaan-faroqui-9077171ab/
 
 
